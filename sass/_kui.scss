@@ -22,6 +22,15 @@ h2, h3, h4, h5, h6 {
     font-family: "Classic Grotesque W01", "Helvetica Neue", sans-serif;
 }
 
+blockquote {
+    background-color: #E7E9E4;
+}
+
+blockquote p {
+    margin: 0px 0px 0px 0px;
+    padding: .5em;
+}
+
 .site_metas {
     background-color:#fff;
     color: #{$base-font-color};
